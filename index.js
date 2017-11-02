@@ -4,4 +4,3 @@ function happyHolidays(string) {
 function happyHolidaysTo(greeting, firstname) {
   return("${greeting}, ${firstname}!")
 }
-
